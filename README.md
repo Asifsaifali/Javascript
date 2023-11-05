@@ -1,3 +1,3 @@
-### JAVASCRIPT PRACTICE CODE
-## LeetCode 30 Days Javascript
+# JAVASCRIPT PRACTICE CODE
+### LeetCode 30 Days Javascript
  
